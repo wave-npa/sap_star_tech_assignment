@@ -12,5 +12,5 @@ Make sure to have debugger for java extension
 Debug to run file Main.java within src\main\java\org\wave\sapstar folder
 
 Step 3:
-To test each tasks please change the input of that task to your test cases
+To test each tasks please change the input of that task to your test cases.
 The result to each task will be printed in log
